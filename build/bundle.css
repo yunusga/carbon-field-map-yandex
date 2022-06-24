@@ -1,0 +1,13 @@
+.cf-map__search .cf-search-input__inner {
+	border-radius: 4px 4px 0 0 !important;
+}
+.cf-map__canvas {
+	width: 100% !important;
+	box-sizing: border-box;
+	border-radius: 0 0 4px 4px !important;
+}
+.cf-map__canvas > ymaps,
+.cf-map__canvas > ymaps > ymaps {
+	width: 100% !important;
+}
+
