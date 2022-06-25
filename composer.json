@@ -10,7 +10,7 @@
             "name": "Yunus Gaziev",
             "email": "yunusga@yandex.uz",
             "role": "Developer"
-        },
+        }
     ],
     "require": {
         "htmlburger/carbon-fields": "^3.0"
