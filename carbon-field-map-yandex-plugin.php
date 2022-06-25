@@ -9,7 +9,7 @@
  *
  * Plugin Name:       Carbon Field Map Yandex
  * Description:       Carbon Fields extension, that adds a Map Yandex field type.
- * Version:           1.0.0
+ * Version:           1.1.0
  * Plugin URI:        https://github.com/yunusga/carbon-field-map-yandex
  * Author:            Yunus Gaziev
  * Author URI:        https://yunusga.uz/

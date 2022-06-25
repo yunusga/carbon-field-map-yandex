@@ -8,7 +8,8 @@
     "authors": [
         {
             "name": "Yunus Gaziev",
-            "email": "yunusga@yandex.uz"
+            "email": "yunusga@yandex.uz",
+            "role": "Developer"
         },
     ],
     "require": {
