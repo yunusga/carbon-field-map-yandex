@@ -1,12 +1,19 @@
 {
-    "name": "htmlburger/carbon-field-map-yandex",
+    "name": "yunusga/carbon-field-map-yandex",
     "description": "Carbon Fields extension, that adds a Map Yandex field type.",
     "keywords": ["wordpress", "carbon-field", "carbon-field-map-yandex"],
-    "homepage": "http://yourhomepage.example.com",
+    "homepage": "https://github.com/yunusga/carbon-field-map-yandex",
     "type": "library",
     "license": "GPL-2.0+",
-    "authors": [],
-    "require": {},
+    "authors": [
+        {
+            "name": "Yunus Gaziev",
+            "email": "yunusga@yandex.uz"
+        },
+    ],
+    "require": {
+        "htmlburger/carbon-fields": "^3.0"
+    },
     "autoload": {
         "files": [
             "field.php"
