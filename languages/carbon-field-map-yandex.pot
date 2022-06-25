@@ -1,0 +1,37 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Carbon Field Map Yandex\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-25 05:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0\n"
+"X-Domain: carbon-field-map-yandex"
+
+#. Name of the plugin
+msgid "Carbon Field Map Yandex"
+msgstr ""
+
+#. Description of the plugin
+msgid "Carbon Fields extension, that adds a Map Yandex field type."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/yunusga/carbon-field-map-yandex"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://yunusga.uz/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Yunus Gaziev"
+msgstr ""

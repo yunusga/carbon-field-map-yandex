@@ -42,6 +42,23 @@ class Map_Yandex_Field extends Field {
 	}
 
 	/**
+	 * Prepare the field type for use.
+	 * Called once per field type when activated.
+	 *
+	 * @static
+	 * @access public
+	 *
+	 * @return void
+	 */
+	public static function field_type_activated() {
+		$dir    = \Carbon_Field_Map_Yandex\DIR . '/languages/';
+		$locale = get_locale();
+		$path   = $dir . $locale . '.mo';
+
+		load_textdomain( 'carbon-field-map-yandex', $path );
+	}
+
+	/**
 	 * Enqueue scripts and styles in admin
 	 * Called once per field type
 	 */
