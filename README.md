@@ -4,6 +4,7 @@ The map field provides a Yandex-powered map with an address search field.
 
 ```php
 Field::make( 'map_yandex', 'crb_map', __( 'Yandex Map' ) )
+```
 
 ## Install via Composer
 
@@ -59,8 +60,8 @@ Field::make( 'map_yandex', 'crb_company_location', __( 'Location' ) )
 To get all the location data as an array, you can use the `map_yandex` type in the retrieval functions. Example:
 
 ```php
-/* Get the location data */
-$map_yandex = carbon_get_post_meta( $post_id, $field_name ); // array( 'value' => '40.74866,-73.97982', lat' => 40.74866, 'lng' => -73.97982, 'address' => '45 Park Avenue,  New York, NY 10016', 'zoom' => 8)
+// Get the location data.
+$map_yandex = carbon_get_post_meta( $post_id, $field_name );
 ```
 
 ## Value Format
