@@ -1,6 +1,6 @@
 # Carbon Fields Map Yandex
 
-The map field provides a Yandex-powered map with an address search field.
+The map field provides a Yandex-powered map with an address search field for [Carbon Fields](https://github.com/htmlburger/carbon-fields).
 
 ```php
 Field::make( 'map_yandex', 'crb_map', __( 'Yandex Map' ) )
