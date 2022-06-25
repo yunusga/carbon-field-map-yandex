@@ -11,10 +11,10 @@ class Map_Yandex_Field extends Field {
 	 * {@inheritDoc}
 	 */
 	protected $default_value = array(
-		Value_Set::VALUE_PROPERTY => '40.346544,-101.645507',
-		'lat'                     => 40.346544,
-		'lng'                     => -101.645507,
-		'zoom'                    => 10,
+		Value_Set::VALUE_PROPERTY => '11.370946, 142.591472',
+		'lat'                     => 11.370946,
+		'lng'                     => 142.591472,
+		'zoom'                    => 4,
 		'address'                 => '',
 	);
 
